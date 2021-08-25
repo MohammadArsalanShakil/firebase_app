@@ -1,6 +1,6 @@
 # firebase_app
 
-A new Flutter project.
+A new Flutter project. That implements a firebase authentication with Sign in, sign up, and sign out pages.
 
 ## Getting Started
 
